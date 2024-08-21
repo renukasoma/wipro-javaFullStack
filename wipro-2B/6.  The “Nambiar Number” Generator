@@ -22,6 +22,6 @@ public class NambiarNumberGenerator {
                 }
             }
         }
-        return Integer.parseInt(numbiarNo.toString());
+        return Integer.parseInt(numbiaRNo.toString());
     }
 }
